@@ -1,8 +1,8 @@
 # DEVOPS_Share
 
-# Azure Virtual Desktop and Windows 365 PowerShell Scripts
+# Azure Virtual Desktop PowerShell Scripts
 
-This repository contains a comprehensive collection of PowerShell scripts designed to automate and validate Azure Virtual Desktop (AVD) and Windows 365 deployments. These scripts cover various aspects of AVD lifecycle management, from initial prerequisites validation to ongoing maintenance and migration.
+This repository contains a comprehensive collection of PowerShell scripts designed to automate and validate Azure Virtual Desktop (AVD). These scripts cover various aspects of AVD lifecycle management, from initial prerequisites validation to ongoing maintenance and migration.
 
 ## Overview
 
