@@ -36,23 +36,9 @@ The scripts are organized by functionality and numbered for sequential execution
 
 - **40_AVD_Unified_Discovery_And_RemoteApp_Publisher_Final.ps1**: Enterprise-grade AVD RemoteApp discovery and publishing tool with security-first design and duplicate prevention.
 
-### Proof of Concept and Reporting Scripts
-
-- **50_AVD_Capture_AVDPoCProof.ps1**: Automates screenshot capture of AVD resources in Azure Portal for proof of concept documentation.
-
-### Migration and Advanced Operations
-
-- **60_AVD_MigrationWizard_00.ps1**: Interactive Azure migration orchestration tool for various migration scenarios with prerequisite validation.
-
-### Accelerator Scripts
-
-- **AVD_Accelerator_Modular.ps1**: Modular AVD Accelerator prerequisite checker with reusable functions. COMING
-
-- **AVD_Accelerator_Single.ps1**: Interactive AVD Accelerator prerequisite checker and configuration tool. COMING
-
 ## Prerequisites
 
-- PowerShell 5.1 or higher
+- PowerShell 5.1 or higher (PowerShell 7.x higher preferred)
 - Azure PowerShell modules (Az.Accounts, Az.Resources, etc.)
 - Appropriate Azure permissions for the operations being performed
 - Administrative privileges on local machines where applicable
