@@ -103,7 +103,7 @@
 
 .NOTES
     Version: 2.0
-    Author: AVD Factory Team
+    Author: edthefixer + Copilot... well more Copilot than me!
     Last Updated: January 15, 2026
     
     PREREQUISITES:
@@ -1439,3 +1439,4 @@ try {
     Add-Content -Path $Script:LogPath -Value "=== AVD VM Size Discovery Completed ===" -Encoding UTF8
     Add-Content -Path $Script:LogPath -Value "End Timestamp: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')" -Encoding UTF8
 }
+
