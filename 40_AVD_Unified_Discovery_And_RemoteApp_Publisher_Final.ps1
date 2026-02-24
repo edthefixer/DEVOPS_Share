@@ -133,7 +133,7 @@
     - Application Metadata: Clean identifiers, descriptions, and command line arguments
     
     VERSION INFORMATION:
-    Author: AVD Automation Team
+    Author: edthefixer + Copilot... well more Copilot than me!
     Version: 4.0 Enterprise Production Release
     Last Modified: February 3, 2026
     
@@ -2045,3 +2045,4 @@ if ($MyInvocation.InvocationName -ne '.') {
         Disconnect-AzureSession
     }
 }
+
