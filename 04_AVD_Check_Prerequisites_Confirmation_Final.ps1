@@ -75,7 +75,7 @@
 
 .NOTES
     Version: 2.0
-    Author: AVD Factory Team
+    Author: edthefixer + Copilot... well more Copilot than me!
     Last Updated: November 20, 2025
     
     PREREQUISITES:
@@ -1560,3 +1560,4 @@ try {
     Write-Host ("=" * 100) -ForegroundColor Green
     Write-Host ""
 }
+
