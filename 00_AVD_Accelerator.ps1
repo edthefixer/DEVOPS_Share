@@ -61,7 +61,7 @@
 
 .NOTES
     Version: 1.0
-    Author: AVD Factory Team
+    Author: edthefixer + Copilot... well more Copilot than me!
     Last Updated: February 23, 2026
 
     PREREQUISITES:
@@ -406,4 +406,5 @@ if ($Mode -eq 'Deploy') {
 }
 
 Write-Step -Message "Deployment complete. See logs and reports for details." -Step 8 -TotalSteps 8
+
 
