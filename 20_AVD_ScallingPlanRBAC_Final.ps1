@@ -28,9 +28,9 @@ Run in non-interactive mode with default selections.
 .\20_AVD_ScallingPlanRBAC.ps1 -SubscriptionId "xxx-xxx" -ResourceGroupName "rg-avd" -HostPoolName "hp-prod"
 
 .NOTES
-Author: Ed Sotillo
-Version: 2.0.0
-Last Updated: February 2026
+Author            : edthefixer + Copilot... well more Copilot than me!
+Version           : 2.0.0
+Last Updated      : February 2026
 #>
 
 [CmdletBinding()]
@@ -543,5 +543,6 @@ Write-Host ""
 Write-Host ("="*100) -ForegroundColor White
 Write-Host " Script Completed " -ForegroundColor White
 Write-Host ("="*100) -ForegroundColor White
+
 
 #endregion
