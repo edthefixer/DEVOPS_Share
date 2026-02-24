@@ -135,7 +135,7 @@ Run complete validation and automatically fix all detected issues without prompt
 
 .NOTES
 File Name      : 02_AVD_Validation_Network_Comprehensive_Final.ps1
-Author         : Factory Scripts Team  
+Author         : edthefixer + Copilot... well more Copilot than me!  
 Prerequisite   : PowerShell 5.1+, Azure PowerShell Module
 Version        : 2.1.0 - Enhanced with VNet Creation and Improved No-VNet Messaging
 Creation Date  : October 2025
@@ -3160,3 +3160,4 @@ try {
 } finally {
     Write-Host ""
 }
+
