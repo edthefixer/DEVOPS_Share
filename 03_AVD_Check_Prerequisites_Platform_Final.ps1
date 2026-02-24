@@ -114,7 +114,7 @@ Run fully automated validation with minimal user interaction, VM SKU auto-select
 
 .NOTES
 File Name      : 03_AVD_Check_Prerequisites_Platform_Final.ps1
-Author         : Ed Sotillo
+Author         : edthefixer + Copilot... well more Copilot than me!
 Prerequisite   : PowerShell 5.1+, Internet connectivity for module installation
 Version        : 3.1.0
 Creation Date  : 2025
@@ -2616,3 +2616,4 @@ function Start-AVDPrerequisitesValidation {
 # Script entry point
 
 Start-AVDPrerequisitesValidation
+
